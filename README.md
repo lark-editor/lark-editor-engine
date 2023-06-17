@@ -1,7 +1,6 @@
 # 📦 Lark-Editor-Engine
 This is the core engine library of the editor, which has the basic functions required for general editing. 
 
-Demo: https://next-editor-engine.netlify.app/
 
 ## ✅ Engine basic functions
 + bold (ctrl + b)
